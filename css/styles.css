@@ -521,7 +521,7 @@ header .container .navigation a:hover p {
 .intro .container .content .form .form-caption p {
   width: 490px;
   font-family: Poppins;
-  font-size: 33px;
+  font-size: 24px;
   line-height: 150%;
   text-align: center;
   color: #151E62;
@@ -857,6 +857,10 @@ header .container .navigation a:hover p {
   color: white;
   text-decoration: none;
   margin: 50px 0 80px 0;
+}
+
+.about a:hover {
+  cursor: pointer;
 }
 
 .partners {
